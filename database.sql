@@ -5,28 +5,12 @@ CREATE TABLE IF NOT EXISTS pokemon (
 );
 
 INSERT INTO pokemon (id, name, img)
-VALUES (133, 'Eevee', '/pokemonImg/eevee.png');
-
-INSERT INTO pokemon (id, name, img)
-VALUES (134, 'Vaporeon', '/pokemonImg/vaporeon.png');
-
-INSERT INTO pokemon (id, name, img)
-VALUES (135, 'Jolteon', '/pokemonImg/jolteon.png');
-
-INSERT INTO pokemon (id, name, img)
-VALUES (136, 'Flareon', '/pokemonImg/flareon.png');
-
-INSERT INTO pokemon (id, name, img)
-VALUES (196, 'Espeon', '/pokemonImg/espeon.png');
-
-INSERT INTO pokemon (id, name, img)
-VALUES (197, 'Umbreon', '/pokemonImg/umbreon.png');
-
-INSERT INTO pokemon (id, name, img)
-VALUES (470, 'Leafeon', '/pokemonImg/leafeon.png');
-
-INSERT INTO pokemon (id, name, img)
-VALUES (471, 'Glaceon', '/pokemonImg/glaceon.png');
-
-INSERT INTO pokemon (id, name, img)
-VALUES (700, 'Sylveon', '/pokemonImg/sylveon.png');
+VALUES (133, 'Eevee', '/pokemonImg/eevee.png'),
+(134, 'Vaporeon', '/pokemonImg/vaporeon.png'),
+(135, 'Jolteon', '/pokemonImg/jolteon.png'),
+(136, 'Flareon', '/pokemonImg/flareon.png'),
+(196, 'Espeon', '/pokemonImg/espeon.png'),
+(197, 'Umbreon', '/pokemonImg/umbreon.png'),
+(470, 'Leafeon', '/pokemonImg/leafeon.png'),
+(471, 'Glaceon', '/pokemonImg/glaceon.png'),
+(700, 'Sylveon', '/pokemonImg/sylveon.png');
